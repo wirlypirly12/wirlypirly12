@@ -5,7 +5,7 @@
 
 <img src="https://lanyard.cnrad.dev/api/1312588421600116767?theme=dark&animated=true" alt="Discord Status"/>
 
-<p><i>I make a lot of tools you never knew you needed (or not needed at all)</i></p>
+<p><i>I make a lot of tools you never knew you needed (or never needed at all)</i></p>
 
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 
