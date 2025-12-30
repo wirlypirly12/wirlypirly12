@@ -1,7 +1,6 @@
 <div align="center">
 
 <h2>Hi, I'm wirlypirly12 👋</h2>
-<p><i style="font-size:16px;">$ melancholy $</i></p>
 
 <img src="https://lanyard.cnrad.dev/api/1312588421600116767?theme=dark&animated=true" alt="Discord Status"/>
 
