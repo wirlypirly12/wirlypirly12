@@ -27,12 +27,13 @@
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 
 <h2>🔭 Current Focus</h2>
-<p><a href="https://github.com/wirlypirly12/obsidian"><b>Obsidian Remote Spy</b></a> - Inspect and intercept network traffic in Roblox games.</p>
+<p><a><b>Luau internals</b></a> - studying the VM, bytecode compiler, and GC internals.</p>
 
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 
 <h2>📦 Previous Projects</h2>
 <p><a href="https://github.com/wirlypirly12/roexplorer"><b>Roexplorer</b></a> - An external Roblox datamodel explorer.</p>
+<p><a href="https://github.com/wirlypirly12/obsidian"><b>Obsidian Remote Spy</b></a> - Inspect and intercept network traffic in Roblox games.</p>
 
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 
