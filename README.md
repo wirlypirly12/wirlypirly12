@@ -27,7 +27,7 @@
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 
 <h2>🔭 Current Focus</h2>
-<p><a><b>Luau internals</b></a> - studying the VM, bytecode compiler, and GC internals.</p>
+<p><a><b>WiiU</b></a> - Free External for Football Fusion 3 (discord.gg/7VyTsCfzDs).</p>
 
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 
