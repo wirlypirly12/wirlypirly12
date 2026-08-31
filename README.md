@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Hi, I'm wirlypirly12 👋</h2>
 <img src="https://lanyard.cnrad.dev/api/1312588421600116767?theme=dark&animated=true" alt="Discord Status"/>
-<p><i>16 year old CS enthusiast building low level Roblox tooling</i></p>
+<p><i>16 year old CS enthusiast</i></p>
 <hr style="width:50%; border:1px solid #555; margin: 20px auto;">
 <p>
   <a href="https://github.com/wirlypirly12?tab=repositories">
